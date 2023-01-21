@@ -2,7 +2,7 @@
 //  LoginViewController.swift
 //  Flash Chat iOS13
 //
-//  Created by Angela Yu on 21/10/2019.
+//  Created by Samar Mitra on 30/11/22.
 //  Copyright © 2019 Angela Yu. All rights reserved.
 //
 
